@@ -46,4 +46,4 @@ rake db:mongoid:create_indexes
 
 ## Dev / More examples
 
-- See specific document: [here](README_dev.md)
+- See specific document: [here](README_DEV.md)
