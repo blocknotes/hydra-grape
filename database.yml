@@ -1,0 +1,13 @@
+development:
+  clients:
+    default:
+      database: hydra
+      hosts:
+        - localhost:27017
+
+test:
+  clients:
+    default:
+      database: hydra_test
+      hosts:
+        - localhost:27017
