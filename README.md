@@ -9,6 +9,8 @@ Features:
 - simple auth using tokens
 - built using Grape, a Mongo DB is required
 
+![hydra](hydra.png)
+
 ## Examples
 
 - Endpoint to create a new project:
