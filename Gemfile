@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.3'
+# ruby '2.3.3'
 
 gem 'hashie', '~> 3.4.0'  # 3.4 because 3.5.4 fires some key warnings
 gem 'mongoid', '~> 6.0.0'

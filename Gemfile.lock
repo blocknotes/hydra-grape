@@ -58,7 +58,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    rack (2.0.1)
+    rack (2.0.6)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-cors (0.4.1)
@@ -108,8 +108,5 @@ DEPENDENCIES
   rerun
   rspec
 
-RUBY VERSION
-   ruby 2.3.3p222
-
 BUNDLED WITH
-   1.14.6
+   1.16.6
